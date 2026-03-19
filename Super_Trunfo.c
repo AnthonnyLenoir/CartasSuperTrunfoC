@@ -62,7 +62,6 @@ int main(){
     printf("Numero de Pontos Turisticos: %d\n", turismo);
 
 
-
     printf("\n--- Dados da Carta 02 ---\n");
     printf("Estado: %s\n", estado2);
     printf("Codigo: %s\n", codigo2);
