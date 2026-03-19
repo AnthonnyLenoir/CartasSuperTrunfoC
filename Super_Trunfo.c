@@ -2,7 +2,7 @@
 
 int main(){
 
-    char estado[30];
+    char estado[20];
     char codigo[30];
     char capital[30];
     int populacao;
